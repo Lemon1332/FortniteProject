@@ -1,6 +1,6 @@
-## Welcome to the FORTNITE PROJECT WEBSITE.
+## Welcome to the Fortnite Project Website.
 
-You can use the buttons below to access other parts of the website.
+### You can use the buttons below to access other parts of the website.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
